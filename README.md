@@ -12,9 +12,13 @@ Kode ini adalah backdoor berbasis PHP untuk situs WordPress, yang menyediakan pa
 🛠️ Fungsi dan Kegunaan Utama
 
 🔍 Backdoor Akses Admin WordPress: Dapat membuat akun admin baru secara diam-diam.
+
 ⚡ Eksfiltrasi Data: Mengambil email, hash password, dan informasi akun pengguna.
+
 🚀 Login Tanpa Password: Melakukan bypass login ke admin dashboard siapa saja.
+
 🔑 Reset Password Tanpa Otorisasi: Bisa reset password user tanpa akses resmi.
+
 🕶️ Pengawasan Jarak Jauh: Dengan laporan ke server eksternal.
 
 📌 Bagaimana cara penggunaannya?
